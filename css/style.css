@@ -150,7 +150,7 @@ table {
 }
 
 .no-webp .header {
-  background-image: url("../../img/bg.jpg"); }
+  background-image: url("../img/bg.jpg"); }
 
 .header {
   padding-top: 20px;
@@ -515,4 +515,4 @@ table {
   src: url(../fonts/SegoeUI-Bold.woff2) format("woff2");
 }
 
-.webp .header { background-image: url(../../img/bg.webp); }
+.webp .header { background-image: url(../img/bg.webp); }
